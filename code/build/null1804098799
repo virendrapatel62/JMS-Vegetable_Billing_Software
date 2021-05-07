@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.7
+Created-By: 1.8.0_65-b17 (Oracle Corporation)
+Codebase: http://localhost:8080/app
+Application-Library-Allowable-Codebase: http://localhost:8080/app
+Caller-Allowable-Codebase: http://localhost:8080/app
+Permissions: sandbox
+Application-Name: JMS
+
